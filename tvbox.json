@@ -1,40 +1,52 @@
 {
   "urls": [
     {
-      "url": "https://9280.kstore.vip/newwex.json",
-      "name": "王二小"
+      "name": "王二小",
+      "url": "https://9280.kstore.vip/newwex.json"
     },
     {
-      "url": "http://www.饭太硬.net/tv",
-      "name": "饭太硬"
+      "name": "饭太硬",
+      "url": "http://www.饭太硬.net/tv"
     },
     {
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json",
-      "name": "小米"
+      "name": "饭太硬备用1",
+      "url": "http://www.饭太硬.art/tv"
     },
     {
-      "url": "http://肥猫.net",
-      "name": "肥猫"
+      "name": "饭太硬备用2",
+      "url": "http://fty.888484.xyz/tv"
     },
     {
-      "url": "http://fish.y456y.com",
-      "name": "摸鱼儿"
+      "name": "饭太硬备用3",
+      "url": "http://fty.333232.xyz/tv"
     },
     {
-      "url": "https://9877.kstore.space/sun.json",
-      "name": "潇洒"
+      "name": "小米",
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"
     },
     {
-      "url": "https://9763.kstore.vip/aowu.json",
-      "name": "嗷呜"
+      "name": "肥猫",
+      "url": "http://肥猫.net"
     },
     {
-      "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
-      "name": "二月红"
+      "name": "摸鱼儿",
+      "url": "http://fish.y456y.com"
     },
     {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
-      "name": "南风"
+      "name": "潇洒",
+      "url": "https://9877.kstore.space/sun.json"
+    },
+    {
+      "name": "嗷呜",
+      "url": "https://9763.kstore.vip/aowu.json"
+    },
+    {
+      "name": "二月红",
+      "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json"
+    },
+    {
+      "name": "南风",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
     }
   ]
 }
